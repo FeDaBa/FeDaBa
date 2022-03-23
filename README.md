@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FeDaBa
 - 👀 I’m interested in collaborating with other developers and learn new things.
 - 🌱 I’m currently learning JavaScript.
-- 💞️ I’m looking to start working as a frontend developer.
+- 💞️ I’m looking to start working as a Front End Developer.
 - 📫 How to reach me: <a href="www.linkedin.com/in/fedebaha">LinkedIn</a>
 
 <!---
