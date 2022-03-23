@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Federico Bahamonde.
 - 👀 I’m interested in collaborating with other developers and learn new things.
-- 🌱 I’m currently learning JavaScript.
+- 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to start working as a Front End Developer.
 - 📫 How to reach me: <a href="www.linkedin.com/in/fedebaha">LinkedIn</a>.
 
