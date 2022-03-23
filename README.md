@@ -2,7 +2,7 @@
 - 👀 I’m interested in collaborating with other developers and learn new things.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking to start working as a Front End Developer.
-- 📫 How to reach me: <a href="www.linkedin.com/in/fedebaha" target="_blank">LinkedIn</a>.
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/fedebaha" target="_blank">LinkedIn</a>.
 
 <!---
 FeDaBa/FeDaBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
