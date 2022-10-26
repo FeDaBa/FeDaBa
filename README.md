@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Federico Bahamonde.
-- 👀 I’m interested in cowork with other developers and learn new things.
+- 👀 I’m interested in work with other developers and make new projects.
 - 🌱 I’m currently learning React JS.
 - 💞️ I’m looking for my first job as Software Developer.
 - 📫 Contact me: <a href="https://www.linkedin.com/in/fedebaha">LinkedIn</a>.
