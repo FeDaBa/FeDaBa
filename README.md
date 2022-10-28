@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Federico Bahamonde.
 - 👀 I’m interested in work with other developers and make new projects.
-- 🌱 I’m currently learning React JS.
+- 🌱 I’m currently learning React and Angular.
 - 💞️ I’m looking for my first job as Software Developer.
-- 📫 Contact me: <a href="https://www.linkedin.com/in/fedebaha">LinkedIn</a>.
+- 📫 Contact me: <a href="https://www.linkedin.com/in/fedebaha">LinkedIn</a>, <a href="https://portfolio-fedebaha.netlify.app/">Portfolio</a>
 
 <!---
 FeDaBa/FeDaBa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
