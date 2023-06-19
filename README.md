@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Federico Bahamonde.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking for my first job as Software Developer.
 - 📫 Contact me: <a href="https://www.linkedin.com/in/fedebaha">LinkedIn</a>
 
 <!---
